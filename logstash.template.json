@@ -1,0 +1,9 @@
+{
+    "template": "logstash",
+    "index_patterns": [
+        "logstash-*"
+    ],
+    "settings": {
+        "number_of_shards": 1
+    }
+}
