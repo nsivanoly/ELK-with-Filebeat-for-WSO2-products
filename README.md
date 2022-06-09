@@ -8,7 +8,7 @@
 ### Set up the ELK with Filebeat
 1. Install Docker & Docker-compose install 
 2. Clone this repository.
-3. Enter the logs files path in the docker-compose.yaml in order to mount
+3. Enter the logs files path in the docker-compose.yml in order to mount
    
    `e.g., <WOS2 product home>/repository/logs`
    
